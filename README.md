@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------------
 
-This repository provides tutorial code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch). In the tutorial, most of the models were implemented with less than 30 lines of code. Before starting this tutorial, it is recommended to finish [Official Pytorch Tutorial](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html).
+See [Official Pytorch Tutorial](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html).
 
 
 <br/>
@@ -35,23 +35,9 @@ This repository provides tutorial code for deep learning researchers to learn [P
 
 <br/>
 
-## Getting Started
-```bash
-$ git clone https://github.com/yunjey/pytorch-tutorial.git
-$ cd pytorch-tutorial/tutorials/PATH_TO_PROJECT
-$ python main.py
-```
-
-<br/>
 
 ## Dependencies
 * [Python 2.7 or 3.5+](https://www.continuum.io/downloads)
 * [PyTorch 0.4.0](http://pytorch.org/)
 
 
-
-<br/>
-
-
-## Author
-Yunjey Choi/ [@yunjey](https://github.com/yunjey)
